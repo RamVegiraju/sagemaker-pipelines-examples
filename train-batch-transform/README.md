@@ -1,6 +1,6 @@
 ## Pipeline with Train, Register, and Batch Inference
 
-## Dag
+## DAG/WorkFlow
 ![Batch](batch.png)
 
 ## To-Do: Blog
