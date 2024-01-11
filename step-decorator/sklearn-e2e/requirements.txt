@@ -1,0 +1,4 @@
+scikit-learn
+numpy
+sagemaker>=2.199.0,<3
+pandas>=2.0.0
